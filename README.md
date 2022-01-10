@@ -19,9 +19,9 @@ Please make sure to update tests as appropriate.
 ## Authors
 
 - [@brokiemag](https://www.github.com/brokiemag)
-- 
+
 ## License
-[Brokiemag](https://brokiemag.me)
+- [Brokiemag](https://brokiemag.me)
 
 
 
