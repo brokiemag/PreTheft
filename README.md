@@ -11,9 +11,18 @@ If it recognizes any face Then it immediately captures the image and records vid
 ```bash
 pip install -r requirements.txt
 ```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## Authors
 
 - [@brokiemag](https://www.github.com/brokiemag)
+- 
+## License
+[Brokiemag](https://brokiemag.me)
+
+
 
   
